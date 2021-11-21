@@ -1,4 +1,4 @@
-# Morse-Code-encoding-and-decoding
+# Morse-Code-encoding-and-decoding [NetBeans IDE project]
 
 Using the Java language version 11 and the NetBeans IDE, you are required to
 code the following application:-
