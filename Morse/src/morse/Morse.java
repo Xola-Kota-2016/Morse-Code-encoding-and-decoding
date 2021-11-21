@@ -2,7 +2,8 @@
 /* 
  * Xola Kota
  * email: xkota45@gmail.com
- * Morse Code (encoding and decoding)
+ * Morse Code (encoding and decoding) 
+ * NetBeans IDE project
  */
 
 package morse;
